@@ -9,9 +9,10 @@ $ brew install python
 ```
 
 ## Run
-Run the Python script.
+Switch to the day's directory, copy your input file and name it `input.txt`. Then run the Python script.
 
 ```
 $ cd day-XX
+$ cp /path/to/your/input input.txt
 $ python part-X.py
 ```
