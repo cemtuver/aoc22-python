@@ -1,0 +1,1 @@
+print("There is no part two. Happy holiday 🎅!")
